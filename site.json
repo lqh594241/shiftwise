@@ -1,0 +1,12 @@
+{
+  "slug": "shiftwise",
+  "brand": "Shiftwise",
+  "kicker": "Make sense of your working week.",
+  "title": "Your week.<br><em>All accounted for.</em>",
+  "desc": "Add up shifts, account for breaks and cross midnight with confidence. A simple timesheet, with the rules you choose.",
+  "accent": "#176cba",
+  "dark": "#1e3147",
+  "kind": "time",
+  "port": "4181",
+  "design": "time card dashboard / blue / white"
+}
